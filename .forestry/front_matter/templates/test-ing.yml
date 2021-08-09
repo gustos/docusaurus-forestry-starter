@@ -11,3 +11,12 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+- name: Opportunities
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Jobs
+  description: Open reqs
+  hidden: false
