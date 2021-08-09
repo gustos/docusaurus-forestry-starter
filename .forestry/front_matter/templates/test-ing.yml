@@ -1,0 +1,13 @@
+---
+label: Test Ing
+hide_body: false
+fields:
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: title
+  label: title
+- type: text
+  name: sidebar_label
+  label: sidebar_label
